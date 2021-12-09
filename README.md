@@ -3,10 +3,10 @@
 a quick little script to convert data. written for phosphate assay, but any linear relationship run at large plate scale will do, just trade values in the process.py script
 
 ## Repository Contents:
-This README
-A copy of the MIT License
-requirements.txt, for quick install
-process.py, the python script that will turn the input into the output
+1. This README
+2. A copy of the MIT License
+3. requirements.txt, for quick install
+4. process.py, the python script that will turn the input into the output
 
 ## Setup tl;dr:
 Download the repository
