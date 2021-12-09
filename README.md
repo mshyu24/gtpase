@@ -18,15 +18,15 @@ Run the script
 ## Setup (click by click, for Mac users):
 All things in curly brackets can be replaced with the relevant file name etc.
 
-Download the repository (green button on main page)
-Put the folder somewhere convenient, probably in a folder that doesn't have spaces in its name or your desktop
-Open Terminal, navigate to that folder (use "cd {directory name}" to go to a particular folder, use "ls" to list what is in the folder you are currently in, use "pwd" to get the path to the folder you're currently in)
-Navigate into the folder you downloaded
-Make a new virtual environment (type "python3 -m venv {virtual environment name}")
-Activate your new virtual environment (type "source {virtual environment name}/bin/activate")
-Make sure you can run the python script (type "chmod +x process.py")
-Use pip to install the requirements file (type "pip install -r requirements.txt")
-At this point you should be set! To test your setup, you can use the sample file and the run instructions (move sample file to the same folder as the python script and make a new output folder)
+1. Download the repository (green button on main page)
+2. Put the folder somewhere convenient, probably in a folder that doesn't have spaces in its name or your desktop
+3. Open Terminal, navigate to that folder (use "cd {directory name}" to go to a particular folder, use "ls" to list what is in the folder you are currently in, use "pwd" to get the path to the folder you're currently in)
+4. Navigate into the folder you downloaded
+5. Make a new virtual environment (type "python3 -m venv {virtual environment name}")
+6. Activate your new virtual environment (type "source {virtual environment name}/bin/activate")
+7. Make sure you can run the python script (type "chmod +x process.py")
+8. Use pip to install the requirements file (type "pip install -r requirements.txt")
+9. At this point you should be set! To test your setup, you can use the sample file and the run instructions (move sample file to the same folder as the python script and make a new output folder)
 
 To run:
 python3 process.py {input file name} {output file name}
